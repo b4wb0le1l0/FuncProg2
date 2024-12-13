@@ -30,7 +30,7 @@
 
 ## Примеры ленивых вычислений в коде
 
-### Функции foldl'' и foldr'' 
+### Функции foldl'' и foldr''
 
 ```haskell
 foldr'' _ acc Leaf = acc
